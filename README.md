@@ -7,8 +7,8 @@ Showcasing what we have learned about web development by recreating the website 
 
 ## Team Member
 
-Yun (from "Happy stories of our client" section to footer)  [Yun](https://github.com/Yunzoo01)
-Haruka (from header to "Our Services" section)  [Haruka](https://github.com/harukaarai95)
+ [Yun](https://github.com/Yunzoo01) (from "Happy stories of our client" section to footer) 
+[Haruka](https://github.com/harukaarai95) (from header to "Our Services" section)  
 
 ## Copy right
 
