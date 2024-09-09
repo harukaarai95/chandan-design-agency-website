@@ -1,3 +1,6 @@
+## Demo
+https://harukaarai95.github.io/chandan-design-agency-website/
+
 ## Objective
 
 Showcasing what we have learned about web development by recreating the website mockup. This mockup is for a single-page website that has responsive design with layouts for mobile, tablet, and laptop/desktop.
